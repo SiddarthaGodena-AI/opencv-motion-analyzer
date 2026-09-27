@@ -1,5 +1,9 @@
 # OpenCV Motion Event Analyzer
 
+![Tests](https://github.com/SiddarthaGodena-AI/opencv-motion-analyzer/actions/workflows/tests.yml/badge.svg)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A lightweight CLI that analyzes a video and reports frames with motion and motion-event starts, without a neural model or cloud service.
 
 ## How it works
